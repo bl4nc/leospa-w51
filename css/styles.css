@@ -1,0 +1,24 @@
+@import url('fonts.css');
+
+.navbar-brand{
+    display: grid !important;
+    text-align: -webkit-center;
+}
+.navbar-brand label{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    padding: 0;
+    margin: 0;
+}
+
+.nav_itens ul>li>a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+nav{
+    align-items: flex-end;
+}
