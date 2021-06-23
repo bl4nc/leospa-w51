@@ -1,0 +1,43 @@
+.body-img-cards {
+    margin-top: 5rem;
+    display: flex;
+}
+
+.body-img-cards .img-cards figure {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.body-img-cards .img-cards:hover {
+    background: var(--c-pink-1);
+}
+
+.body-img-cards .img-cards figure:hover {
+    background: var(--c-pink-1);
+    opacity: 10%;
+    transition: all 0.5s ease-in-out;
+}
+
+.body-img-cards .backdrop {
+    background: var(--c-pink-1);
+}
+
+.body-img-cards .figure-img {
+    margin: 0 !important;
+}
+
+.body-img-cards .img-cards .img {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.body-img-cards .img-cards .text {
+    position: absolute;
+    font-family: 'Rufina', sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    color: white;
+}
