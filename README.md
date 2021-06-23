@@ -6,8 +6,11 @@
 
 - Frontend
     [x] Padrões de SEO.
+    
     [ ] Mobile - Algumas partes sim, outras não.
-		[x] Otimização de imagens.
+    
+    [x] Otimização de imagens.
+    
     [x] Uso de javascript
 
 - Backend -	Em processo de desenvolvimento 
