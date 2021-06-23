@@ -1,4 +1,32 @@
-@media (max-width: 2000px) {}
+@media (min-width: 720px) {
+    #header_content {
+        margin-left: 20rem;
+    }
+}
+
+.header_itens {
+    margin-top: 13%;
+}
+
+.header_itens .content_text>.title {
+    color: var(--c-pink-1);
+    font-size: 1rem;
+    font-family: 'Rufina', serif;
+}
+
+.header_itens .content_text>.big-text {
+    color: var(--c-black-1);
+    font-size: 3.5rem;
+    font-family: 'Rufina', serif;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.header_itens .content_text>.small-text {
+    color: var(--c-gray);
+    font-size: 1rem;
+    font-family: 'Roboto', serif;
+}
 
 .header_hero {
     position: relative;
@@ -8,7 +36,7 @@
 .left-plant {
     position: absolute;
     float: left;
-    top: 4rem;
+    top: 13rem;
 }
 
 .right-woman {
@@ -19,16 +47,15 @@
 }
 
 .right-woman figure {
-    /* width: 35rem */
+    width: 41rem
 }
 
 .left-plant figure {
-    /* width: 10rem; */
+    width: 11rem;
 }
 
 .navbar {
     flex-direction: column;
-    align-content: center;
     padding: 0 !important;
 }
 
@@ -37,8 +64,6 @@
 }
 
 .nav_container {
-    /* justify-content: center */
-    margin-left: 9rem;
     padding: 0 !important;
 }
 
@@ -54,6 +79,10 @@
     letter-spacing: 0.1rem;
     padding: 0;
     margin: 0;
+}
+
+div>.navbar {
+    align-items: unset;
 }
 
 .nav_itens {
