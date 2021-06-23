@@ -1,0 +1,70 @@
+.header_hero {
+    position: relative;
+    width: 100%
+}
+
+.left-plant {
+    position: absolute;
+    float: left;
+    top: 4rem;
+}
+
+.right-woman {
+    top: 0;
+    position: absolute;
+    float: right;
+    right: 0;
+}
+
+.right-woman figure {
+    /* width: 35rem */
+}
+
+.left-plant figure {
+    /* width: 10rem; */
+}
+
+.navbar {
+    flex-direction: column;
+    align-content: center;
+    padding: 0 !important;
+}
+
+.nav_container>.row {
+    margin-top: 1rem
+}
+
+.nav_container {
+    /* justify-content: center */
+    margin-left: 9rem;
+    padding: 0 !important;
+}
+
+.navbar-brand {
+    display: grid !important;
+    text-align: -webkit-center;
+}
+
+.navbar-brand label {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+    padding: 0;
+    margin: 0;
+}
+
+.nav_itens {
+    margin-left: 7rem;
+    align-self: flex-end;
+}
+
+.nav_itens ul>li>a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+nav {
+    align-items: flex-end;
+}
