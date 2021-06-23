@@ -22,6 +22,4 @@ function show_social(el, action) {
             backdrop.classList.toggle('d-none')
         }
     }
-
-
 }
