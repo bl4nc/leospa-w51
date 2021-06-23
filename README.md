@@ -15,12 +15,12 @@
 
 - Backend -	Em processo de desenvolvimento 
 
+<br>
 
 ### :eyes: Como visualizar o site.
 Para facilitar na hora de visualização eu hospedei no própio githubs pages nesse [link](https://bl4nc.github.io/leospa-w51/) 
 
 
-<br>
 <br>
 
 ### :hammer: Backend
