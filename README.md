@@ -27,8 +27,7 @@ Para facilitar na hora de visualização eu hospedei no própio githubs pages ne
 <br>
 
 ### :hammer: Backend
-Decorrente do tempo, o backend não foi finalizado, porem minha idealização para ele era buildar na Heroku e integrar com o site usando fetch do própio JS, assim todo sistema ficaria online e seria de mais fácil acesso.
+Foi criado outro repósitorio onde você pode encontrar nesse [link](https://github.com/bl4nc/api-w51/) apenas com o API do projeto.
 
-Como o frontend já está no github pages, eu conseguiria esconder as chaves da API utilizando o própio github para isso.
 
     
