@@ -1,0 +1,42 @@
+.testimonial {
+    background: var(--c-beige);
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+    text-align: center;
+}
+
+.testimonial .img-center img {
+    width: 3rem;
+}
+
+.testimonial .text-1 {
+    font-family: "Rufina", sans-serif;
+    font-size: 1rem;
+    color: var(--c-black-1);
+    font-weight: 500;
+}
+
+.testimonial .text-2 {
+    font-family: "Roboto", sans-serif;
+    font-size: 0.7rem;
+    color: var(--c-black-1);
+    font-weight: lighter;
+}
+
+.testimonial .text-2 span {
+    font-family: "Rufina", sans-serif;
+    font-size: 1rem;
+    color: var(--c-black-1);
+    font-weight: 500;
+}
+
+.testimonial .circles {
+    justify-content: space-between;
+    width: 7%;
+    display: inline-flex;
+}
+
+.testimonial .circles li {
+    font-size: 1.5rem;
+    color: var(--c-pink-2);
+}
