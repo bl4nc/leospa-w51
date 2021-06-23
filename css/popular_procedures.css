@@ -8,7 +8,7 @@
 .popular_procedures .text-2 {
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: var(--c-gray-2);
 }
 
@@ -30,12 +30,14 @@
 .popular_procedures_cards .card .card-title {
     font-family: 'Rufina', sans-serif;
     font-weight: bold;
+    font-size: 1rem;
     color: var(--c-black-2);
 }
 
 .popular_procedures_cards .card .card-text {
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
+    font-size: 1rem;
     color: var(--c-gray-2);
 }
 
