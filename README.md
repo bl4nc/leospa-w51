@@ -1,4 +1,4 @@
-# :nail_care: Beuty Spa - Teste W51
+# :nail_care: Beuty Spa - Teste W-51
  Esse projeto foi feito como um teste para contratação na w51 agency.
 <br>
 
@@ -14,7 +14,9 @@
     
     [x] Uso de javascript
 
-- Backend -	Em processo de desenvolvimento 
+- Backend
+    [Repositório do backend](https://github.com/bl4nc/api-w51/)
+    
 
 <br>
 
