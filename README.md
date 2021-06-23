@@ -5,6 +5,7 @@
 ### Regras 
 
 - Frontend
+    
     [x] Padrões de SEO.
     
     [ ] Mobile - Algumas partes sim, outras não.
