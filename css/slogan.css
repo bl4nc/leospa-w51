@@ -1,0 +1,56 @@
+.slogan {
+    margin-top: 7rem;
+    position: relative;
+}
+
+.flower-img img {
+    width: 8rem;
+}
+
+.slogan .center-content {
+    text-align: center;
+}
+
+.slogan .center-content .img-center img {
+    width: 4rem;
+}
+
+.slogan .center-content .text .text-1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--c-gray-2);
+}
+
+.slogan .center-content .text .text-2 {
+    font-family: 'Rufina', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+}
+
+.slogan .center-content .text .text-3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 0.8rem;
+    color: var(--c-gray-2);
+}
+
+.slogan .center-content button {
+    background: var(--c-pink-1);
+    font-size: 0.7rem;
+    border-radius: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    color: white;
+}
+
+.slogan .center-content button:hover {
+    background: var(--c-pink-3);
+    transition: ease-in-out 0.4s;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}

@@ -144,7 +144,7 @@ nav {
 }
 
 #watch_our_story_btn span {
-    color: var(--c-gray);
+    color: var(--c-gray-1);
     font-size: 1rem;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
