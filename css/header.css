@@ -36,7 +36,7 @@
 .left-plant {
     position: absolute;
     float: left;
-    top: 13rem;
+    top: 8rem;
 }
 
 .right-woman {
@@ -51,7 +51,7 @@
 }
 
 .left-plant figure {
-    width: 11rem;
+    width: 13rem;
 }
 
 .navbar {
@@ -98,4 +98,59 @@ div>.navbar {
 
 nav {
     align-items: flex-end;
+}
+
+#reserve_now_btn {
+    display: inline-flex;
+    border-radius: 0px !important;
+    background: var(--c-pink-1);
+    border-color: transparent;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: white;
+}
+
+#reserve_now_btn:hover {
+    background: var(--c-pink-3);
+    transition: ease-in-out 0.4s;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+#reserve_now_btn span {
+    font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#reserve_now_btn i {
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#watch_our_story_btn {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+#watch_our_story_btn i {
+    color: var(--c-pink-1);
+    padding: 1rem;
+    border-radius: 10rem;
+    background-color: var(--c-beige)
+}
+
+#watch_our_story_btn span {
+    color: var(--c-gray);
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    ;
+}
+
+.header_itens .buttons {
+    display: flex;
 }
